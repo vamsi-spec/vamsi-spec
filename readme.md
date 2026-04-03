@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Vamsi<br><br>💻 I'm a developer working on a **Chat Application**  <br>🤖 Currently learning **Generative AI** and exploring how AI can be used in real-world apps  <br>🌱 Always improving my coding and problem-solving skills  <br><br>🔧 What I'm working on<br>- 🚀 Building a chat app with modern features<br>- 🧠 Learning and experimenting with Gen AI concepts<br><br> 🎯 Goals<br>- Become a better software developer<br>- Build smart and scalable applications<br><br>📫 Feel free to check out my projects and connect!<br>
+Hi 👋 I'm Vamsi<br><br>💻 I'm a developer working on a **Kiosk Application**  <br>🤖 Currently learning **Generative AI** and exploring how AI can be used in real-world apps  <br>🌱 Always improving my coding and problem-solving skills  <br><br>🔧 What I'm working on<br>- 🚀 Building a chat app with modern features<br>- 🧠 Learning and experimenting with Gen AI concepts<br><br> 🎯 Goals<br>- Become a better software developer<br>- Build smart and scalable applications<br><br>📫 Feel free to check out my projects and connect!<br>
 
 
 ## 🌐 Socials:
