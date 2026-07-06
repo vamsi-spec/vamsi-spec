@@ -608,3 +608,230 @@ Throughout these projects, I consistently prioritize:
 - Real-world Problem Solving
 
 ---
+# Professional Experience
+
+> Practical experience building AI-powered applications, backend services, and data-driven solutions.
+
+---
+
+## Backend & AI/ML Engineering
+
+### Clinical Note Intelligence Platform
+**Personal Project** • *2026 – Present*
+
+Designed and developed a production-grade healthcare AI platform that automates clinical documentation using speech recognition, NLP, and Large Language Models.
+
+### Scope
+
+- Designed scalable REST APIs using Express.js & FastAPI
+- Developed a multi-stage AI pipeline using Whisper, Ollama, and spaCy
+- Implemented JWT Authentication with Refresh Token Rotation
+- Designed normalized PostgreSQL schema using Prisma ORM
+- Integrated Redis for session management and caching
+- Built explainable AI workflows with sentence-level traceability
+- Developed RBAC supporting Doctors, Nurses, Receptionists, and Admins
+- Implemented medical entity extraction, SOAP generation, and ICD-10/CPT suggestions
+
+**Core Skills**
+
+`Node.js`
+`Express.js`
+`FastAPI`
+`PostgreSQL`
+`Redis`
+`Prisma`
+`Whisper`
+`Ollama`
+`spaCy`
+`REST APIs`
+
+---
+
+### Data Analysis Intern
+
+**APSSDC – Government of Andhra Pradesh**
+
+**May 2025 – July 2025**
+
+Worked on real-world datasets, performing exploratory data analysis, preprocessing, visualization, and predictive analysis.
+
+### Responsibilities
+
+- Performed Exploratory Data Analysis (EDA)
+- Cleaned and transformed raw datasets
+- Created visualizations using Python libraries
+- Developed a weather forecasting analysis project
+- Improved dataset quality through preprocessing techniques
+
+**Technologies**
+
+`Python`
+`NumPy`
+`Pandas`
+`Matplotlib`
+`Data Analysis`
+
+---
+
+# Technical Highlights
+
+<div align="center">
+
+| Area | Experience |
+|------|------------|
+| Backend Development | REST APIs, Authentication, Distributed Services |
+| Artificial Intelligence | RAG, LLM Applications, NLP |
+| Databases | PostgreSQL, MongoDB, Redis |
+| Security | JWT, RBAC, Refresh Tokens |
+| DevOps | Docker, Git, GitHub |
+| Frontend | React, Tailwind CSS |
+| Real-Time Systems | Socket.IO, WebRTC |
+| Data Engineering | Pandas, NumPy |
+
+</div>
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|--------------|---------|
+| 🏆 IEEE National Hackathon Finalist | Selected among **3000+ teams** nationwide |
+| 🏆 HACK24 Finalist | Built a complete web application within **24 hours** |
+| 🏆 National Level Hackathon | Represented **ANITS** in Government of India Hackathon |
+| 🏆 LeetCode | Solved **500+ DSA Problems** |
+| 🏆 AI Engineering | Built multiple production-ready AI systems using RAG & LLMs |
+
+</div>
+
+---
+
+# Certifications
+
+## Amazon Web Services (AWS)
+
+> Preparing for AWS Cloud Practitioner
+
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## Oracle
+
+> Oracle Database & Java Learning Path
+
+![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
+
+---
+
+## Cisco
+
+> Networking & Cybersecurity Learning
+
+![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco)
+
+---
+
+## NPTEL
+
+> Computer Science & Engineering Courses
+
+![](https://img.shields.io/badge/NPTEL-Certification-005BAC?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/kottapalli_vamsi/">
+
+<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/">
+
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+
+</a>
+
+<a href="https://www.codechef.com/">
+
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
+
+</a>
+
+</div>
+
+---
+
+## Problem Solving
+
+- ✅ 500+ Data Structures & Algorithms Problems Solved
+- ✅ Strong understanding of Time & Space Complexity
+- ✅ Regular Competitive Programming Practice
+- ✅ Focused on writing optimized and maintainable solutions
+
+---
+
+# Open Source & Community
+
+### Areas of Interest
+
+- Backend Engineering
+- Artificial Intelligence
+- Open Source Development
+- Cloud Technologies
+- Developer Tools
+- Healthcare AI
+- Distributed Systems
+
+### Looking to Contribute
+
+- LangChain Ecosystem
+- AI Infrastructure
+- Node.js
+- FastAPI
+- Developer Experience Tools
+- Open Source Healthcare Projects
+
+---
+
+# Leadership & Collaboration
+
+Throughout my projects and hackathons, I have worked in collaborative environments where I contributed to:
+
+- Technical Architecture
+- Backend Development
+- AI Integration
+- API Design
+- Database Modeling
+- Feature Planning
+- System Design Discussions
+- Code Reviews
+- Documentation
+
+---
+
+# Beyond Code
+
+Outside of development, I enjoy:
+
+- Studying System Design
+- Exploring AI Research Papers
+- Learning Cloud Technologies
+- Building Side Projects
+- Participating in Hackathons
+- Solving Algorithmic Problems
+- Reading Engineering Blogs
+
+---
