@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer;AI%2FML+Engineer;Building+AI+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer;AI%2FML+Engineer;Building+Scalable+Systems"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 
 # About Me
 
-I'm a **Backend & AI Engineer** passionate about designing scalable software systems that solve real-world problems. My primary focus is building **production-grade backend services**, **AI-powered applications**, and **scalable distributed systems**.
+I'm a **Backend & AI Engineer** passionate about designing scalable software systems that solve real-world problems. My primary focus is building **production-grade backend services**, **AI-powered applications**, and **distributed systems**.
 
 Over the past few years, I've built projects ranging from **real-time communication platforms** to **LLM-powered clinical AI systems**, combining modern backend engineering with practical machine learning.
 
@@ -103,7 +103,7 @@ My engineering interests include:
 
 > **Build software that scales, remains maintainable, and solves meaningful problems.**
 
-I enjoy understanding **why** systems are designed a certain way—not just **how** to implement them. Whether it's designing authentication flows, optimizing database queries, or integrating LLMs into production systems, I believe in thoughtful engineering.
+I enjoy understanding **why** systems are designed a certain way—not just **how** to implement them. Whether it's designing authentication flows, optimizing database queries, or integrating LLMs into production systems, I focus on building software that matters.
 
 ---
 
@@ -877,19 +877,11 @@ Outside of development, I enjoy:
 
 ---
 
-# Contribution Snake
+# GitHub Contribution Snake Animation
 
-> **Setup Required:** This animation requires a GitHub Action in your profile repository. After creating the workflow, uncomment the image below.
-
-```markdown
-<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/vamsi-spec/vamsi-spec/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
--->
-```
-
-A GitHub Actions workflow can generate this automatically on a schedule.
 
 ---
 
