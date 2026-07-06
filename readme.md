@@ -698,5 +698,171 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 <p align="center">
 
 ### Let's Build Something Amazing! 🚀
+</p>
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamsi-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vamsi-spec&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vamsi-spec&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-spec&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Development Metrics
+
+<div align="center">
+
+| Focus Area | Description |
+|------------|-------------|
+| 🏗 Backend Engineering | Scalable APIs, Authentication, Distributed Systems |
+| 🤖 Artificial Intelligence | LLM Applications, RAG, NLP |
+| ☁ Cloud Technologies | Docker, Cloud Deployment, DevOps |
+| 📚 Learning | AWS, Kubernetes, System Design |
+| 🚀 Current Goal | Production-grade AI Products |
+
+</div>
+
+---
+
+# Contribution Snake
+
+> **Setup Required:** This animation requires a GitHub Action in your profile repository. After creating the workflow, uncomment the image below.
+
+```markdown
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vamsi-spec/vamsi-spec/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+-->
+```
+
+A GitHub Actions workflow can generate this automatically on a schedule.
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - AWS Cloud
+  - Kubernetes
+  - System Design
+  - CI/CD Pipelines
+
+building:
+  - Clinical Note Intelligence Platform
+  - AI-powered Healthcare Applications
+  - Production Backend Services
+
+exploring:
+  - Agentic AI
+  - MCP (Model Context Protocol)
+  - Distributed Systems
+  - Cloud Architecture
+
+open_to:
+  - Software Engineering Internships
+  - Backend Engineering Roles
+  - AI / ML Engineering
+  - Open Source Collaboration
+```
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="mailto:vamsi2562006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kottapalli-vamsi-a79b5a35a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/vamsi-spec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-nu-ten-d19w7ebyn7.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+# Engineering Principles
+
+<div align="center">
+
+| Principle | Belief |
+|-----------|--------|
+| Simplicity | Prefer clean and maintainable solutions over unnecessary complexity. |
+| Scalability | Design systems that can evolve with growing requirements. |
+| Security | Build secure applications by default. |
+| Performance | Optimize only where it delivers measurable value. |
+| Learning | Stay curious and continuously improve through projects and research. |
+
+</div>
+
+---
+
+# Favorite Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,react,postgres,mongodb,redis,docker,git,github"/>
+
+</div>
+
+---
+
+# Quote
+
+<div align="center">
+
+> **"Great software is built through thoughtful engineering, continuous learning, and a relentless focus on solving real-world problems."**
+
+</div>
+
+---
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,35:6D28D9,70:7C3AED,100:2563EB"/>
 
 </p>
