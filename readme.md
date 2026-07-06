@@ -3,11 +3,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,35:6D28D9,70:7C3AED,100:2563EB&text=Kottapalli%20Vamsi&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20•%20AI%20Engineer%20•%20Product%20Builder&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,35:6D28D9,70:7C3AED,100:2563EB&text=Kottapalli%20Vamsi&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&section=header"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer;AI%2FML+Engineer;Building+Production-Grade+Systems;RAG+%7C+FastAPI+%7C+Node.js+%7C+PostgreSQL;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer;AI%2FML+Engineer;Building+Scalable+Systems;Production+Grade+Services"/>
 </p>
 
 ---
@@ -80,9 +80,9 @@
 
 # About Me
 
-I'm a **Backend & AI Engineer** passionate about designing scalable software systems that solve real-world problems. My primary focus is building **production-grade backend services**, **AI-powered applications**, and **distributed systems** with an emphasis on clean architecture, performance, and maintainability.
+I'm a **Backend & AI Engineer** passionate about designing scalable software systems that solve real-world problems. My primary focus is building **production-grade backend services**, **AI-powered applications**, and **data-driven solutions**.
 
-Over the past few years, I've built projects ranging from **real-time communication platforms** to **LLM-powered clinical AI systems**, combining modern backend engineering with practical machine learning to create reliable, end-to-end products.
+Over the past few years, I've built projects ranging from **real-time communication platforms** to **LLM-powered clinical AI systems**, combining modern backend engineering with practical machine learning.
 
 My engineering interests include:
 
@@ -103,7 +103,7 @@ My engineering interests include:
 
 > **Build software that scales, remains maintainable, and solves meaningful problems.**
 
-I enjoy understanding **why** systems are designed a certain way—not just **how** to implement them. Whether it's designing authentication flows, optimizing database queries, integrating LLMs into production pipelines, or architecting backend services, I aim to create software that is reliable, secure, and easy to evolve.
+I enjoy understanding **why** systems are designed a certain way—not just **how** to implement them. Whether it's designing authentication flows, optimizing database queries, integrating LLMs into production systems, or architecting microservices, I focus on clarity, performance, and long-term maintainability.
 
 ---
 
@@ -225,6 +225,7 @@ I enjoy understanding **why** systems are designed a certain way—not just **ho
 </p>
 
 ---
+
 # AI / ML Expertise
 
 <div align="center">
@@ -275,7 +276,7 @@ Designed and engineered a production-oriented healthcare platform that converts 
 
 ### AI Pipeline
 
-```text
+```
 Doctor Consultation
         │
         ▼
@@ -356,9 +357,7 @@ Patient Timeline
 
 ### Repository
 
-**GitHub**
-
-https://github.com/vamsi-spec/Clinical-app
+**GitHub**: https://github.com/vamsi-spec/Clinical-app
 
 </details>
 
@@ -380,7 +379,7 @@ Built a medical research assistant capable of retrieving, ranking, validating, a
 
 ### Architecture
 
-```text
+```
 Medical Papers
       │
       ▼
@@ -431,7 +430,7 @@ Citation Validation
 
 ### Engineering Features
 
-✔ Hybrid Retrieval
+✔ Hybrid Retrieval (BM25 + Vector Search)
 
 ✔ Hallucination Detection
 
@@ -499,7 +498,7 @@ Engineered a scalable MERN application providing instant messaging, media sharin
 
 ### System Flow
 
-```text
+```
 User Login
       │
       ▼
@@ -531,7 +530,7 @@ Peer Video Call
 
 ### Engineering Highlights
 
-✔ O(1) socket lookup
+✔ O(1) socket lookup optimization
 
 ✔ Typing indicators
 
@@ -584,9 +583,7 @@ A full-stack platform that enables students and faculty to collaboratively organ
 
 React • Node.js • Express • PostgreSQL • Prisma • Clerk • Cloudinary • Tailwind CSS
 
-**Live Demo**
-
-https://quick-stay-beige-tau.vercel.app/
+**Live Demo**: https://quick-stay-beige-tau.vercel.app/
 
 </details>
 
@@ -608,6 +605,7 @@ Throughout these projects, I consistently prioritize:
 - Real-world Problem Solving
 
 ---
+
 # Professional Experience
 
 > Practical experience building AI-powered applications, backend services, and data-driven solutions.
@@ -621,7 +619,7 @@ Throughout these projects, I consistently prioritize:
 
 Designed and developed a production-grade healthcare AI platform that automates clinical documentation using speech recognition, NLP, and Large Language Models.
 
-### Scope
+#### Scope
 
 - Designed scalable REST APIs using Express.js & FastAPI
 - Developed a multi-stage AI pipeline using Whisper, Ollama, and spaCy
@@ -634,16 +632,7 @@ Designed and developed a production-grade healthcare AI platform that automates 
 
 **Core Skills**
 
-`Node.js`
-`Express.js`
-`FastAPI`
-`PostgreSQL`
-`Redis`
-`Prisma`
-`Whisper`
-`Ollama`
-`spaCy`
-`REST APIs`
+`Node.js` `Express.js` `FastAPI` `PostgreSQL` `Redis` `Prisma` `Whisper` `Ollama` `spaCy` `REST APIs`
 
 ---
 
@@ -655,7 +644,7 @@ Designed and developed a production-grade healthcare AI platform that automates 
 
 Worked on real-world datasets, performing exploratory data analysis, preprocessing, visualization, and predictive analysis.
 
-### Responsibilities
+#### Responsibilities
 
 - Performed Exploratory Data Analysis (EDA)
 - Cleaned and transformed raw datasets
@@ -665,11 +654,7 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 
 **Technologies**
 
-`Python`
-`NumPy`
-`Pandas`
-`Matplotlib`
-`Data Analysis`
+`Python` `NumPy` `Pandas` `Matplotlib` `Data Analysis`
 
 ---
 
@@ -747,27 +732,19 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 <div align="center">
 
 <a href="https://leetcode.com/u/kottapalli_vamsi/">
-
 <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-
 </a>
 
 <a href="https://www.hackerrank.com/">
-
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-
 </a>
 
 <a href="https://www.codechef.com/">
-
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
-
 </a>
 
 </div>
@@ -835,3 +812,9 @@ Outside of development, I enjoy:
 - Reading Engineering Blogs
 
 ---
+
+<p align="center">
+
+### Let's Build Something Amazing! 🚀
+
+</p>
