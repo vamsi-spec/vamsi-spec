@@ -3,11 +3,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,35:6D28D9,70:7C3AED,100:2563EB&text=Kottapalli%20Vamsi&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,35:6D28D9,70:7C3AED,100:2563EB&text=Kottapalli%20Vamsi&fontSize=50&fontColor=ffffff&fontAlignY=38"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer;AI%2FML+Engineer;Building+Scalable+Systems;Production+Grade+Services"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer;AI%2FML+Engineer;Building+AI+Systems"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 
 # About Me
 
-I'm a **Backend & AI Engineer** passionate about designing scalable software systems that solve real-world problems. My primary focus is building **production-grade backend services**, **AI-powered applications**, and **data-driven solutions**.
+I'm a **Backend & AI Engineer** passionate about designing scalable software systems that solve real-world problems. My primary focus is building **production-grade backend services**, **AI-powered applications**, and **scalable distributed systems**.
 
 Over the past few years, I've built projects ranging from **real-time communication platforms** to **LLM-powered clinical AI systems**, combining modern backend engineering with practical machine learning.
 
@@ -103,7 +103,7 @@ My engineering interests include:
 
 > **Build software that scales, remains maintainable, and solves meaningful problems.**
 
-I enjoy understanding **why** systems are designed a certain way—not just **how** to implement them. Whether it's designing authentication flows, optimizing database queries, integrating LLMs into production systems, or architecting microservices, I focus on clarity, performance, and long-term maintainability.
+I enjoy understanding **why** systems are designed a certain way—not just **how** to implement them. Whether it's designing authentication flows, optimizing database queries, or integrating LLMs into production systems, I believe in thoughtful engineering.
 
 ---
 
@@ -589,9 +589,28 @@ React • Node.js • Express • PostgreSQL • Prisma • Clerk • Cloudinary
 
 ---
 
+## Engineering Principles
 
+Throughout these projects, I consistently prioritize:
 
+- Clean Architecture
+- Scalability
+- Security by Design
+- Performance Optimization
+- Modular Development
+- AI Explainability
+- Maintainable Codebases
+- Developer Experience
+- Production Readiness
+- Real-world Problem Solving
 
+---
+
+# Professional Experience
+
+> Practical experience building AI-powered applications, backend services, and data-driven solutions.
+
+---
 
 ## Backend & AI/ML Engineering
 
@@ -652,7 +671,7 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 | DevOps | Docker, Git, GitHub |
 | Frontend | React, Tailwind CSS |
 | Real-Time Systems | Socket.IO, WebRTC |
-
+| Data Engineering | Pandas, NumPy |
 
 </div>
 
@@ -673,12 +692,59 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 </div>
 
 ---
+
+# Certifications
+
+## Amazon Web Services (AWS)
+
+> Preparing for AWS Cloud Practitioner
+
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## Oracle
+
+> Oracle Database & Java Learning Path
+
+![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
+
+---
+
+## Cisco
+
+> Networking & Cybersecurity Learning
+
+![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco)
+
+---
+
+## NPTEL
+
+> Computer Science & Engineering Courses
+
+![](https://img.shields.io/badge/NPTEL-Certification-005BAC?style=for-the-badge)
+
+---
+
 # Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/kottapalli_vamsi/">
 <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
 </div>
@@ -694,19 +760,74 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 
 ---
 
+# Open Source & Community
+
+### Areas of Interest
+
+- Backend Engineering
+- Artificial Intelligence
+- Open Source Development
+- Cloud Technologies
+- Developer Tools
+- Healthcare AI
+- Distributed Systems
+
+### Looking to Contribute
+
+- LangChain Ecosystem
+- AI Infrastructure
+- Node.js
+- FastAPI
+- Developer Experience Tools
+- Open Source Healthcare Projects
+
+---
+
+# Leadership & Collaboration
+
+Throughout my projects and hackathons, I have worked in collaborative environments where I contributed to:
+
+- Technical Architecture
+- Backend Development
+- AI Integration
+- API Design
+- Database Modeling
+- Feature Planning
+- System Design Discussions
+- Code Reviews
+- Documentation
+
+---
+
+# Beyond Code
+
+Outside of development, I enjoy:
+
+- Studying System Design
+- Exploring AI Research Papers
+- Learning Cloud Technologies
+- Building Side Projects
+- Participating in Hackathons
+- Solving Algorithmic Problems
+- Reading Engineering Blogs
+
+---
 
 <p align="center">
 
 ### Let's Build Something Amazing! 🚀
+
 </p>
+
+---
 
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamsi-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vamsi-spec&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-spec&layout=compact&theme=nord&hide_border=true"/>
 
 </div>
 
@@ -714,7 +835,7 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vamsi-spec&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-spec&theme=nord&hide_border=true"/>
 
 </div>
 
@@ -724,7 +845,7 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vamsi-spec&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vamsi-spec&theme=nord&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -734,7 +855,7 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-spec&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-spec&theme=nord&hide_border=true&area=true"/>
 
 </div>
 
