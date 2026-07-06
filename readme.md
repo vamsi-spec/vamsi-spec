@@ -1,18 +1,227 @@
-# 💫 About Me:
-Hi 👋 I'm Vamsi<br><br>💻 I'm a developer working on a **Kiosk Application**  <br>🤖 Currently learning **Generative AI** and exploring how AI can be used in real-world apps  <br>🌱 Always improving my coding and problem-solving skills  <br><br>🔧 What I'm working on<br>- 🚀 Building a chat app with modern features<br>- 🧠 Learning and experimenting with Gen AI concepts<br><br> 🎯 Goals<br>- Become a better software developer<br>- Build smart and scalable applications<br><br>📫 Feel free to check out my projects and connect!<br>
+<!-- ========================================================= -->
+<!--                    ANIMATED HEADER                         -->
+<!-- ========================================================= -->
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,35:6D28D9,70:7C3AED,100:2563EB&text=Kottapalli%20Vamsi&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20•%20AI%20Engineer%20•%20Product%20Builder&descAlignY=58"/>
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamsi2562006@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vamsi-spec&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vamsi-spec&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-spec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer;AI%2FML+Engineer;Building+Production-Grade+Systems;RAG+%7C+FastAPI+%7C+Node.js+%7C+PostgreSQL;Always+Learning.+Always+Building."/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vamsi-spec&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+
+<a href="https://www.anits.edu.in">
+<img src="https://img.shields.io/badge/ANITS-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CGPA-8.93-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/APSSDC-Intern-4338CA?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/IEEE-Hackathon%20Finalist-5B21B6?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://maps.google.com/?q=Visakhapatnam,India">
+<img src="https://img.shields.io/badge/📍-Visakhapatnam,%20India-312E81?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://portfolio-nu-ten-d19w7ebyn7.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kottapalli-vamsi-a79b5a35a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vamsi2562006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vamsi-spec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vamsi-spec&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/vamsi-spec?style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/vamsi-spec?style=for-the-badge&color=7C3AED"/>
+
+</p>
+
+---
+
+# About Me
+
+I'm a **Backend & AI Engineer** passionate about designing scalable software systems that solve real-world problems. My primary focus is building **production-grade backend services**, **AI-powered applications**, and **distributed systems** with an emphasis on clean architecture, performance, and maintainability.
+
+Over the past few years, I've built projects ranging from **real-time communication platforms** to **LLM-powered clinical AI systems**, combining modern backend engineering with practical machine learning to create reliable, end-to-end products.
+
+My engineering interests include:
+
+- Backend Architecture
+- Artificial Intelligence
+- Retrieval-Augmented Generation (RAG)
+- Distributed Systems
+- REST API Design
+- Authentication & Security
+- Database Design
+- Cloud-Native Development
+- System Design
+- Developer Experience
+
+---
+
+# Engineering Philosophy
+
+> **Build software that scales, remains maintainable, and solves meaningful problems.**
+
+I enjoy understanding **why** systems are designed a certain way—not just **how** to implement them. Whether it's designing authentication flows, optimizing database queries, integrating LLMs into production pipelines, or architecting backend services, I aim to create software that is reliable, secure, and easy to evolve.
+
+---
+
+# Currently Open To
+
+✔ Software Engineering Internship
+
+✔ Backend Engineering
+
+✔ AI/ML Engineering
+
+✔ Full Stack Product Development
+
+✔ Open Source Collaboration
+
+✔ Hackathons
+
+✔ Research & Innovation
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+
+</p>
+
+**Also Experienced With**
+
+- Prisma ORM
+- FAISS
+- BM25
+- Vector Search
+
+---
+
+## AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+</p>
+
+### Core Expertise
+
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Ollama
+- Whisper
+- spaCy
+- SciSpaCy
+- Prompt Engineering
+- Hybrid Search
+- Medical NLP
+- LLM Orchestration
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux"/>
+
+</p>
+
+---
+
+## What I'm Currently Building
+
+- 🏥 Clinical Note Intelligence Platform
+- 🤖 Medical AI Assistants
+- 📚 Advanced RAG Pipelines
+- ⚡ High-Performance Backend APIs
+- ☁️ Cloud-Ready Services
+- 🔐 Secure Authentication Systems
+
+---
+
+<p align="center">
+
+> *"Good software isn't just code—it is thoughtful engineering."*
+
+</p>
+
+---
