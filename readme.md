@@ -225,3 +225,387 @@ I enjoy understanding **why** systems are designed a certain way—not just **ho
 </p>
 
 ---
+# AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Technologies | Highlights |
+|----------|:-----------:|-------------|-----------|
+| Large Language Models | ★★★★★ | Ollama, Prompt Engineering | Clinical reasoning, document synthesis, intelligent assistants |
+| Retrieval-Augmented Generation | ★★★★★ | LangChain, FAISS, BM25 | Hybrid search, reranking, citation-aware responses |
+| Natural Language Processing | ★★★★☆ | Whisper, spaCy, SciSpaCy | Medical transcription, NER, entity extraction |
+| Backend AI Integration | ★★★★★ | FastAPI, Node.js | AI microservices, orchestration pipelines |
+| Data Processing | ★★★★☆ | NumPy, Pandas | Cleaning, preprocessing, feature engineering |
+| Model Deployment | ★★★★☆ | FastAPI, Docker | Production inference APIs |
+| Database Intelligence | ★★★★☆ | PostgreSQL, Redis | Vector search, caching, session management |
+
+</div>
+
+---
+
+# Featured Engineering Projects
+
+> Projects focused on scalable backend architecture, production-grade AI systems, and real-world problem solving.
+
+---
+
+<details open>
+
+<summary>
+
+# 🏥 Clinical Note Intelligence Platform
+
+### AI-Powered Clinical Documentation System
+
+</summary>
+
+Designed and engineered a production-oriented healthcare platform that converts doctor–patient conversations into structured clinical documentation using a multi-stage AI pipeline.
+
+### Engineering Overview
+
+| Category | Details |
+|-----------|---------|
+| **Frontend** | React 18, Zustand, Tailwind CSS |
+| **Backend** | Node.js, Express.js, FastAPI |
+| **AI Stack** | Whisper, Ollama, spaCy, SciSpaCy |
+| **Database** | PostgreSQL, Prisma ORM, Redis |
+| **Authentication** | JWT Rotation, RBAC, Refresh Tokens |
+| **Infrastructure** | Docker-ready Architecture |
+
+---
+
+### AI Pipeline
+
+```text
+Doctor Consultation
+        │
+        ▼
+Speech Recording
+        │
+        ▼
+Whisper Transcription
+        │
+        ▼
+Medical Correction Layer
+        │
+        ▼
+Speaker Diarization
+        │
+        ▼
+Medical Entity Recognition
+        │
+        ▼
+Drug Interaction Detection
+        │
+        ▼
+LLM Clinical Reasoning
+        │
+        ▼
+SOAP Note Generation
+        │
+        ▼
+Patient Timeline
+```
+
+---
+
+### Key Engineering Highlights
+
+✔ Multi-role RBAC (Doctor, Nurse, Receptionist, Admin)
+
+✔ Explainable AI outputs with sentence-level traceability
+
+✔ Longitudinal patient intelligence
+
+✔ Drug interaction detection
+
+✔ ICD-10 & CPT suggestion pipeline
+
+✔ Redis-backed authentication
+
+✔ Refresh Token Rotation
+
+✔ Secure REST APIs
+
+✔ Audit logging
+
+✔ Modular microservice architecture
+
+---
+
+### Performance Goals
+
+| Metric | Target |
+|----------|--------|
+| SOAP Generation | < 10 seconds |
+| Manual Correction | < 5% |
+| Authentication | Redis Cached |
+| API Response | Optimized |
+| Architecture | Modular |
+
+---
+
+### Engineering Impact
+
+- Eliminates repetitive documentation.
+- Improves clinical workflow efficiency.
+- Introduces explainable AI for healthcare.
+- Supports future EHR integration.
+- Designed for scalability and maintainability.
+
+---
+
+### Repository
+
+**GitHub**
+
+https://github.com/vamsi-spec/Clinical-app
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 📚 Medical Literature Research Assistant
+
+### Production RAG Search Engine
+
+</summary>
+
+Built a medical research assistant capable of retrieving, ranking, validating, and summarizing scientific literature using hybrid retrieval techniques.
+
+---
+
+### Architecture
+
+```text
+Medical Papers
+      │
+      ▼
+Document Loader
+      │
+      ▼
+Chunking
+      │
+      ▼
+Embedding Generation
+      │
+      ▼
+FAISS Index
+
+BM25 Index
+      │
+      ▼
+Hybrid Retrieval
+      │
+      ▼
+Score Fusion
+      │
+      ▼
+Re-ranking
+      │
+      ▼
+LLM Response
+      │
+      ▼
+Citation Validation
+```
+
+---
+
+### Stack
+
+| Component | Technology |
+|------------|------------|
+| Backend | FastAPI |
+| AI | LangChain |
+| LLM | Ollama |
+| Vector Search | FAISS |
+| Search | BM25 |
+| Frontend | React |
+| Database | PostgreSQL |
+
+---
+
+### Engineering Features
+
+✔ Hybrid Retrieval
+
+✔ Hallucination Detection
+
+✔ Citation Validation
+
+✔ Confidence Scoring
+
+✔ Drug Interaction Lookup
+
+✔ ClinicalTrials.gov Integration
+
+✔ Multi-stage RAG Pipeline
+
+✔ Medical Search Optimization
+
+---
+
+### Performance
+
+| Metric | Result |
+|---------|---------|
+| Dataset | 5,000+ PubMed Papers |
+| Retrieval | Hybrid BM25 + FAISS |
+| Precision | 78.5% |
+| Architecture | Modular |
+| APIs | RxNav + ClinicalTrials |
+
+---
+
+### Repository
+
+https://github.com/vamsi-spec/medical-research
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 💬 Real-Time Messaging & Video Platform
+
+### Full Stack Communication Platform
+
+</summary>
+
+Engineered a scalable MERN application providing instant messaging, media sharing, presence management, and peer-to-peer WebRTC video communication.
+
+---
+
+### Technology
+
+| Category | Stack |
+|-----------|------|
+| Frontend | React + Zustand |
+| Backend | Node.js + Express |
+| Database | MongoDB |
+| Authentication | JWT + OTP |
+| Realtime | Socket.IO |
+| Video | WebRTC |
+| Storage | Cloudinary |
+
+---
+
+### System Flow
+
+```text
+User Login
+      │
+      ▼
+JWT Authentication
+      │
+      ▼
+Socket Connection
+      │
+      ▼
+Presence Management
+      │
+      ▼
+Messaging Engine
+      │
+      ▼
+Media Upload
+      │
+      ▼
+Cloudinary CDN
+      │
+      ▼
+WebRTC Signaling
+      │
+      ▼
+Peer Video Call
+```
+
+---
+
+### Engineering Highlights
+
+✔ O(1) socket lookup
+
+✔ Typing indicators
+
+✔ Read receipts
+
+✔ Presence detection
+
+✔ OTP verification
+
+✔ Secure authentication
+
+✔ Cloud media delivery
+
+✔ WebRTC signaling
+
+---
+
+### Repository
+
+https://github.com/vamsi-spec/Mern-chat
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🎓 StudyRadar
+
+### Collaborative Academic Resource Platform
+
+</summary>
+
+A full-stack platform that enables students and faculty to collaboratively organize, discover, and manage academic resources.
+
+### Highlights
+
+- Role-based access control
+- Secure PDF uploads
+- Cloudinary integration
+- Subject-wise organization
+- Teacher verification
+- Rating & reporting system
+- React Query caching
+- PostgreSQL + Prisma backend
+
+### Tech Stack
+
+React • Node.js • Express • PostgreSQL • Prisma • Clerk • Cloudinary • Tailwind CSS
+
+**Live Demo**
+
+https://quick-stay-beige-tau.vercel.app/
+
+</details>
+
+---
+
+## Engineering Principles
+
+Throughout these projects, I consistently prioritize:
+
+- Clean Architecture
+- Scalability
+- Security by Design
+- Performance Optimization
+- Modular Development
+- AI Explainability
+- Maintainable Codebases
+- Developer Experience
+- Production Readiness
+- Real-world Problem Solving
+
+---
