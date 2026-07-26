@@ -693,39 +693,7 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 
 ---
 
-# Certifications
 
-## Amazon Web Services (AWS)
-
-> Preparing for AWS Cloud Practitioner
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-## Oracle
-
-> Oracle Database & Java Learning Path
-
-![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
-
----
-
-## Cisco
-
-> Networking & Cybersecurity Learning
-
-![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco)
-
----
-
-## NPTEL
-
-> Computer Science & Engineering Courses
-
-![](https://img.shields.io/badge/NPTEL-Certification-005BAC?style=for-the-badge)
-
----
 
 # Coding Profiles
 
@@ -735,17 +703,7 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
 
 </div>
 
@@ -760,64 +718,8 @@ Worked on real-world datasets, performing exploratory data analysis, preprocessi
 
 ---
 
-# Open Source & Community
 
-### Areas of Interest
 
-- Backend Engineering
-- Artificial Intelligence
-- Open Source Development
-- Cloud Technologies
-- Developer Tools
-- Healthcare AI
-- Distributed Systems
-
-### Looking to Contribute
-
-- LangChain Ecosystem
-- AI Infrastructure
-- Node.js
-- FastAPI
-- Developer Experience Tools
-- Open Source Healthcare Projects
-
----
-
-# Leadership & Collaboration
-
-Throughout my projects and hackathons, I have worked in collaborative environments where I contributed to:
-
-- Technical Architecture
-- Backend Development
-- AI Integration
-- API Design
-- Database Modeling
-- Feature Planning
-- System Design Discussions
-- Code Reviews
-- Documentation
-
----
-
-# Beyond Code
-
-Outside of development, I enjoy:
-
-- Studying System Design
-- Exploring AI Research Papers
-- Learning Cloud Technologies
-- Building Side Projects
-- Participating in Hackathons
-- Solving Algorithmic Problems
-- Reading Engineering Blogs
-
----
-
-<p align="center">
-
-### Let's Build Something Amazing! 🚀
-
-</p>
 
 ---
 
@@ -885,32 +787,7 @@ Outside of development, I enjoy:
 
 ---
 
-# Current Focus
 
-```yaml
-learning:
-  - AWS Cloud
-  - Kubernetes
-  - System Design
-  - CI/CD Pipelines
-
-building:
-  - Clinical Note Intelligence Platform
-  - AI-powered Healthcare Applications
-  - Production Backend Services
-
-exploring:
-  - Agentic AI
-  - MCP (Model Context Protocol)
-  - Distributed Systems
-  - Cloud Architecture
-
-open_to:
-  - Software Engineering Internships
-  - Backend Engineering Roles
-  - AI / ML Engineering
-  - Open Source Collaboration
-```
 
 ---
 
@@ -938,19 +815,7 @@ open_to:
 
 ---
 
-# Engineering Principles
 
-<div align="center">
-
-| Principle | Belief |
-|-----------|--------|
-| Simplicity | Prefer clean and maintainable solutions over unnecessary complexity. |
-| Scalability | Design systems that can evolve with growing requirements. |
-| Security | Build secure applications by default. |
-| Performance | Optimize only where it delivers measurable value. |
-| Learning | Stay curious and continuously improve through projects and research. |
-
-</div>
 
 ---
 
