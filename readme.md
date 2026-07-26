@@ -226,20 +226,7 @@ I enjoy understanding **why** systems are designed a certain way—not just **ho
 
 ---
 
-# AI / ML Expertise
 
-<div align="center">
-
-| Domain | Proficiency | Technologies | Highlights |
-|----------|:-----------:|-------------|-----------|
-| Large Language Models | ★★★★★ | Ollama, Prompt Engineering | Clinical reasoning, document synthesis, intelligent assistants |
-| Retrieval-Augmented Generation | ★★★★☆ | LangChain, FAISS, BM25 | Hybrid search, reranking, citation-aware responses |
-| Natural Language Processing | ★★★★☆ | Whisper, spaCy, SciSpaCy | Medical transcription, NER, entity extraction |
-| Backend AI Integration | ★★★★★ | FastAPI, Node.js | AI microservices, orchestration pipelines |
-| Model Deployment | ★★★★☆ | FastAPI, Docker | Production inference APIs |
-| Database Intelligence | ★★★★☆ | PostgreSQL, Redis | Vector search, caching, session management |
-
-</div>
 
 ---
 
